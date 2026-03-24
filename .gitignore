@@ -9,5 +9,5 @@
 .DS_Store
 Thumbs.db
 
-# Python (por si acaso)
+# Python
 __pycache__/
