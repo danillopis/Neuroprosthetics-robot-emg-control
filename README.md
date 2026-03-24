@@ -3,7 +3,7 @@ End-to-end neuroprosthetics project combining cubic trajectory planning, obstacl
 
 # 🧠 Neuroprosthetics Robot Control with EMG
 
-Cubic trajectory planning, obstacle avoidance, real robot execution, and EMG-based gripper control for the **Neuroprosthetics** course (Master in Neurotechnology, UPM).
+Cubic trajectory planning, obstacle avoidance, real robot execution, and EMG-based gripper control for the **Neuroprosthetics** course (Master in Science in Neurotechnology, UPM).
 
 ---
 
@@ -35,7 +35,7 @@ neuroprosthetics-robot-emg-control/
 ├── .gitignore
 ├── CITATION.cff
 │
-├── arduino/
+├── ARDUINO/
 │   ├── GR01-D2a/
 │   │   ├── GR01-D2a.ino
 │   │   ├── poses.h
