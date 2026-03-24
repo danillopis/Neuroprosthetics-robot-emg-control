@@ -28,7 +28,32 @@ This project implements a full pipeline for robotic manipulation:
 ---
 
 ## 🧩 Project Structure
-
+```
+neuroprosthetics-robot-emg-control/
+│
+├── README.md
+├── .gitignore
+├── CITATION.cff
+│
+├── arduino/
+│   ├── GR01-D2a/
+│   │   ├── GR01-D2a.ino
+│   │   ├── poses.h
+│   │   ├── robot.h
+│   │   └── servos.h
+│   │
+│   ├── GR01-D2b/
+│   │   ├── GR01-D2b.ino
+│   │   ├── poses.h
+│   │   ├── robot.h
+│   │   └── servos.h
+│
+├── MATLAB/
+│   └── D2.m
+│
+└── docs/
+    └── report.pdf
+```
 ---
 
 ## 🚀 Features
