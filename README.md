@@ -61,7 +61,7 @@ Gripper control using muscle activity signals.
 Full report available in:
 
 ```
-docs/report.pdf
+report.pdf
 ```
 
 ---
