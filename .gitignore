@@ -1,0 +1,13 @@
+# Arduino
+*.ino.cpp
+
+# MATLAB
+*.asv
+*.m~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python (por si acaso)
+__pycache__/
