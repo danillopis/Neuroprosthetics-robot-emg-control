@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Neuroprosthetics Robot Control with EMG"
+authors:
+  - family-names: "Llopis Conejo"
+    given-names: "Daniel"
+  - family-names: "Nevado García"
+    given-names: "Matías"
+date-released: 2025
+url: "https://github.com/TU-USUARIO/neuroprosthetics-robot-emg-control"
