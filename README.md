@@ -51,8 +51,7 @@ neuroprosthetics-robot-emg-control/
 ├── MATLAB/
 │   └── D2.m
 │
-└── docs/
-    └── report.pdf
+└── report.pdf
 ```
 ---
 
